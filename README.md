@@ -1,8 +1,7 @@
 # 👨‍💻 Leo Evans – Full-Stack & Game Developer
 
 ###
-<img align="right" width="100%" src="Technological Design for Digital Solutions.png"  />
-![Leo Evans – Portfolio](Technological Design for Digital Solutions.png)
+<img align="center" width="50%" src="Technological Design for Digital Solutions.png"  />
 
 Welcome! I'm Leo Evans, a freelance developer with experience in building modern web applications and immersive games.
 
