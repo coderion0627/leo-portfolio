@@ -1,6 +1,6 @@
 # 👋 Leo Evans – Full-Stack & Game Developer
 
-![Dependable Banner](./Technological Design for Digital Solutions.png)
+![Dependable Banner](/Technological Design for Digital Solutions.png)
 
 I'm a passionate freelance developer focused on crafting efficient web apps and interactive games.
 
