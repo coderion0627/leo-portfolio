@@ -1,20 +1,43 @@
-# 👋 Leo Evans – Full-Stack & Game Developer
+# 👨‍💻 Leo Evans – Full-Stack & Game Developer
 
-![Dependable Banner](/Technological Design for Digital Solutions.png)
+![Leo Evans – Portfolio](Technological Design for Digital Solutions.png)
 
-I'm a passionate freelance developer focused on crafting efficient web apps and interactive games.
+Welcome! I'm Leo Evans, a freelance developer with experience in building modern web applications and immersive games.
 
-## 🧰 Tech Stack
-- **Frontend:** React, Vue, Tailwind, JavaScript/TypeScript
-- **Backend:** Node.js, Python, PHP (Laravel)
-- **Game Dev:** Unity3D (C#)
-- **Tools:** Git, Firebase, MySQL, Docker, REST APIs
+---
 
-## 🚀 Projects
-- **React Client Dashboard** – Built with Tailwind, API integration, and user auth.
-- **Unity Puzzle Game** – 2D game with original mechanics and UI.
-- **Vue CMS** – Firebase-powered portfolio manager.
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vue, Tailwind CSS, JavaScript/TypeScript
+- **Backend:** Node.js, PHP (Laravel), Python (Flask/Django)
+- **Game Development:** Unity3D (C#)
+- **Others:** Git, Firebase, REST APIs, WebSockets
+
+---
+
+## 🚀 Featured Projects
+
+| Project              | Description                        | Tech Used                    |
+|----------------------|------------------------------------|------------------------------|
+| React Dashboard      | Admin panel with Tailwind UI       | React, Node.js, MongoDB      |
+| Unity Puzzle Game    | 2D mobile puzzle with animations   | Unity, C#                    |
+| Vue CMS              | Personal blog & CMS                | Vue, Firebase, Markdown      |
+
+---
+
+## 📈 Also Experienced With
+
+- 📈 Crypto, Stocks, Forex & Binary Options Trading
+- Building custom trading dashboards and financial visualizations
+
+---
 
 ## 📬 Contact
-- 📧 coderion0627@gmail.com
-- 🔗 [GitHub](https://github.com/leo-evans)
+
+- ✉️ Email: coderion0627@gmail.com  
+- 🌐 Portfolio: [leo-dev.vercel.app](https://leo-dev.vercel.app)  
+- 🔗 GitHub: [github.com/leo-evans](https://github.com/leo-evans)
+
+---
+
+> ⚡ *Building clean, scalable, and human-centered software solutions.*
